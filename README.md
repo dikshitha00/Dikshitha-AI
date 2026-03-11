@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/418ca7fa-1694-4150-af01-25a6a1c9dcf3 
+**URL**:https://dikshitha-ai.lovable.app
 
 ## How can I edit this code?
 
@@ -10,7 +10,7 @@ There are several ways of editing your application.
 
 **Use Lovable**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/418ca7fa-1694-4150-af01-25a6a1c9dcf3) and start prompting.
+Simply visit the [Lovable Project](https://dikshitha-ai.lovable.app) and start prompting.
 
 Changes made via Lovable will be committed automatically to this repo.
 
