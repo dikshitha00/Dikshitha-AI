@@ -22,7 +22,7 @@ The only requirement is having Node.js & npm installed - [install with nvm](http
 
 Follow these steps:
 
-```sh
+
 
 
 **Edit a file directly in GitHub**
